@@ -275,19 +275,19 @@ This analysis demonstrates how logistics data can be transformed into actionable
 # 📷 Dashboard Preview
 
 ## Executive Dashboard
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](images/Executive_summary.png)
 
 ## Route Analysis Dashboard
-![Route Dashboard](images/route_dashboard.png)
+![Route Dashboard](images/Route_analysis.png)
 
 ## Fleet Utilization Dashboard
-![Fleet Dashboard](images/fleet_dashboard.png)
+![Fleet Dashboard](images/Fleet_performance.png)
 
 ## Driver Insights Dashboard
-![Driver Dashboard](images/driver_dashboard.png)
+![Driver Dashboard](images/Driver_insights.png)
 
 ## Maintenance Dashboard
-![Maintenance Dashboard](images/maintenance_dashboard.png)
+![Maintenance Dashboard](images/Maintenance_analysis.png)
 
 ---
 
@@ -310,6 +310,7 @@ This analysis demonstrates how logistics data can be transformed into actionable
 Logistics-Operation-Optimization-Analysis/
 │
 ├── data/
+│   └── logistics.zip
 ├── sql/
 │   └── Logistics Data.sql
 │
